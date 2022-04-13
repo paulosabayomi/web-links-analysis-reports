@@ -1,0 +1,33 @@
+Paulos Ab:     Analysis
+
+| All links | | Links ( excl. duplicates ) | | Okay links | | Broken links | | Denied links | | Slow loading links | 
+| 21 |          | 15 |                          | 14 |           | 0 |             | 1 |             | 0 | 
+
+--Broken links 
+No broken links 
+
+
+--Links access denied by host 
+https://www.linkedin.com/in/alpha-omar-diallo ::: reason :::}> link https://www.linkedin.com/in/alpha-omar-diallo :::returns  999  ::: link not permited for scanning by host ::: cant determine status
+
+
+
+--Links that took too long to load 
+No links that took too long to load 
+
+
+--Okay links 
+https://stackoverflow.com/users/15833481/alpha-diallo?tab=profile
+http://alphaomardiallo.com/portfolio_item_2.html
+https://kotlinlang.org/lp/mobile/
+http://alphaomardiallo.com/privacy-policy.html
+https://twitter.com/Alpha08647273
+http://alphaomardiallo.com/#home
+http://alphaomardiallo.com/#work
+https://developers.google.com/profile/u/117198425690071399660
+http://alphaomardiallo.com/portfolio_item_1.html
+http://alphaomardiallo.com/#about
+http://alphaomardiallo.com/#services
+https://www.android.com/
+https://github.com/AlphaOmarDiallo
+http://alphaomardiallo.com/#contact
